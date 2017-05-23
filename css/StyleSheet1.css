@@ -1,0 +1,48 @@
+﻿body {
+}
+.navbar {
+	background-color: #000;
+	
+}
+#dropdown1 {
+	width:200px!important;
+}
+#dropdown1 a:hover{
+	background-color:gold !important;
+
+}
+.footer {
+	background-color: #000 ;
+}
+.slider {
+	height: 850px !important;
+    
+}
+.slides {
+	height: 800px !important;
+	
+}
+nav ul a:hover{
+	background-color:#808080 !important;
+}
+.slider h3 {
+	color: #B22222 !important;
+	font-family: 'Lobster', cursive;
+}
+.slider h3 span{
+	color:#000!important;
+}
+.paralla {
+	position: absolute;
+	/*top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;*/
+	z-index: -1;
+	height:360px!important;
+}
+/*Form*/
+sec{
+	top:100px!important;
+}
+
